@@ -1,0 +1,9 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property*/
+ 
+ .Panel{
+ 	-fx-background-radius: 30px;
+ }
+ 
+ .image{
+ 	-fx-background-color: linear-gradient(#86D5D3, #86D577);
+ }
